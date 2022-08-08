@@ -13,5 +13,3 @@ if [[ $health_check == "[]" ]]; then
 else
     echo "JAMF Pro Server is not healthy"
 fi
-
-
