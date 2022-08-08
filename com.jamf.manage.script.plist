@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>CUSTOM_LABEL_HERE</string>
+	<string>com.jamf.manage.script</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/bin/bash</string>
