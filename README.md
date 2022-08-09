@@ -16,4 +16,6 @@ SAP Privileges: https://github.com/SAP/macOS-enterprise-privileges
 
 Make Me Admin Script: https://github.com/jamf/MakeMeAnAdmin
 
+FileVault Secure Token and Bootstrap Token: https://support.apple.com/guide/deployment/use-secure-and-bootstrap-tokens-dep24dbdcf9e/web
+
 Quizlet Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
