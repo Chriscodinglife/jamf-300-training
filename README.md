@@ -12,4 +12,8 @@ Show Me Your ID App: https://hcsonline.com/support/apps/show-me-your-id
 
 Website to create LaunchAgents settings: https://zerolaunched.herokuapp.com
 
+SAP Privileges: https://github.com/SAP/macOS-enterprise-privileges
+
+Make Me Admin Script: https://github.com/jamf/MakeMeAnAdmin
+
 Quizlet Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
