@@ -2,6 +2,11 @@
 
 The following is a general list of useful resources shared within the Jamf 300 training course
 
+### Quizlet Supplementary Study Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
+(Quizlet questions are just a general pool of questions to help cover some topics on Jamf 300)
+
+
+## Useful links shared in Class
 Jamf 300 Course Resources: https://docs.jamf.com/education-services/resources/20220728/300_Resources.html
 
 Jamf Health Check Page Documentation: https://docs.jamf.com/10.40.0/jamf-pro/documentation/Jamf_Pro_Health_Check_Page.html?hl=health%2Ccheck
@@ -26,7 +31,9 @@ Kernel and System Extensions: https://support.apple.com/guide/deployment/system-
 
 Pre-Approved JAMF PPPC settings: https://github.com/jamf/JamfPrivacyPreferencePolicyControlProfiles/blob/master/CodesignatureGather.sh
 
-Quizlet Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
+JAMF Pro API Privilege Requirements by Endpoints: https://developer.jamf.com/jamf-pro/docs/classic-api-minimum-required-privileges-and-endpoint-mapping
+
+
 
 Useful Commands:
 
