@@ -33,9 +33,9 @@ Pre-Approved JAMF PPPC settings: https://github.com/jamf/JamfPrivacyPreferencePo
 
 JAMF Pro API Privilege Requirements by Endpoints: https://developer.jamf.com/jamf-pro/docs/classic-api-minimum-required-privileges-and-endpoint-mapping
 
+JAMF Classic API Youtube Video: https://www.youtube.com/watch?v=iWPnzKPavZY
 
-
-Useful Commands:
+## Useful Commands:
 
 Reenroll a machine via DEP
 ```
