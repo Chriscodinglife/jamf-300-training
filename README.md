@@ -54,6 +54,7 @@ Format Date for Display in a Bash Script: https://www.cyberciti.biz/faq/linux-un
 ## Useful Commands:
 
 These are just some commands that I found really useful, but most are copy paste from [the Jamf 300 Course Resources](https://docs.jamf.com/education-services/resources/20220728/300_Resources.html)
+
 Reenroll a machine via DEP
 ```
 sudo profiles renew -type enrollment
