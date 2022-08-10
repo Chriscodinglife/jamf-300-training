@@ -39,6 +39,8 @@ JAMF Pro API Privilege Requirements by Endpoints: https://developer.jamf.com/jam
 
 JAMF Classic API Youtube Video: https://www.youtube.com/watch?v=iWPnzKPavZY
 
+Next DNS: https://nextdns.io/
+
 Training Catalog Classic API: https://trainingcatalog.jamf.com/classic-api-put-post-and-delete
 
 Training Catalog Intro to the JAMF API's: https://trainingcatalog.jamf.com/introduction-to-the-jamf-apis
