@@ -41,6 +41,8 @@ Training Catalog Intro to the JAMF API's: https://trainingcatalog.jamf.com/intro
 
 Training Catalog Classic API - Using GET: https://trainingcatalog.jamf.com/classic-api-get
 
+Stop Putting Jamf API Credentials in your scripts: https://macnotes.wordpress.com/2021/11/15/stop-putting-jamf-pro-api-credentials-on-clients/
+
 ## Useful Commands:
 
 Reenroll a machine via DEP
