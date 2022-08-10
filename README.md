@@ -43,6 +43,8 @@ Training Catalog Classic API - Using GET: https://trainingcatalog.jamf.com/class
 
 Stop Putting Jamf API Credentials in your scripts: https://macnotes.wordpress.com/2021/11/15/stop-putting-jamf-pro-api-credentials-on-clients/
 
+The MUT app: https://marketplace.jamf.com/details/the-mut
+
 ## Useful Commands:
 
 Reenroll a machine via DEP
