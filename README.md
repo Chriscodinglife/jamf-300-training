@@ -61,6 +61,14 @@ Github Copilot with Visual Studio Code: https://docs.github.com/en/copilot/getti
 
 Bash Scripting Cheat Sheet: https://devhints.io/bash
 
+Helping jamfHelper: https://apple.lib.utah.edu/jamfhelper/
+
+HCAOnline Jamf Helper Documentation: https://hcsonline.com/images/How_to_use_Jamf_Helper.pdf
+
+jamfHelper Constructor: https://github.com/BIG-RAT/jhc
+
+DockUtil: https://github.com/kcrawford/dockutil
+
 ## Useful Commands:
 
 These are just some commands that I found really useful, but most are copy paste from [the Jamf 300 Course Resources](https://docs.jamf.com/education-services/resources/20220728/300_Resources.html)
