@@ -1,8 +1,9 @@
 #!/bin/bash
 
 jss_instance="https://m300-10a.pro.jamf.training"
-# export JSS_USERNAME="<>"
-# export JSS_PASSWORD="<>"
+# export your username and password in terminal
+# export passwordE="<>"
+# export username="<>"
 
 # Use curl to interact with the API
 # -X Get indicated we are forming a GET reqeust, or a READ request
