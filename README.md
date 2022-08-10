@@ -49,6 +49,8 @@ Stop Putting Jamf API Credentials in your scripts: https://macnotes.wordpress.co
 
 The MUT app: https://marketplace.jamf.com/details/the-mut
 
+Format Date for Display in a Bash Script: https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/
+
 ## Useful Commands:
 
 Reenroll a machine via DEP
