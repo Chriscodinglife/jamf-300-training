@@ -1,5 +1,9 @@
 # Jamf 300 Resources
 
+## Official picture of Course Instructor Sam Valencia 
+
+![sam-actual-picture-not-fake.jpg](images/wolff.jpg)
+
 The following is a general list of useful resources shared within the Jamf 300 training course
 
 ### Quizlet Supplementary Study Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
