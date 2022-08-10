@@ -78,6 +78,11 @@ Check the token status on a user
 sysadminctl -secureTokenStatus <user-name>
 ```
 
+Open the kextpolicy Database with SQL
+```
+sqlite /var/db/SystemPolicyConfiguration/KextPolicy
+```
+
 SQL command to get the locally enabled kexts from the /var/db/SystemPolicyConfiguration/KextPolicy database
 ```
 SELECT * FROM kext_policy
