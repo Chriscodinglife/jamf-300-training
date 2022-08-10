@@ -51,6 +51,14 @@ The MUT app: https://marketplace.jamf.com/details/the-mut
 
 Format Date for Display in a Bash Script: https://www.cyberciti.biz/faq/linux-unix-formatting-dates-for-display/
 
+Shell Check: https://www.shellcheck.net
+
+Explain Shell: https://www.explainshell.com
+
+Github Copilot with Visual Studio Code: https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-visual-studio-code
+
+Bash Scripting Cheat Sheet: https://devhints.io/bash
+
 ## Useful Commands:
 
 These are just some commands that I found really useful, but most are copy paste from [the Jamf 300 Course Resources](https://docs.jamf.com/education-services/resources/20220728/300_Resources.html)
