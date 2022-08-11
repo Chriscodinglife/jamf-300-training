@@ -9,9 +9,9 @@ The following is a general list of useful resources shared within the Jamf 300 t
 ### Quizlet Supplementary Study Questions: https://quizlet.com/_bs7wp4?x=1qqt&i=3mdcjl
 (Quizlet questions are just a general pool of questions to help cover some topics on Jamf 300)
 
+## Can't Emphasize the usefulness of Jamf 300 Course Resources: https://docs.jamf.com/education-services/resources/20220728/300_Resources.html
 
 ## Useful links shared in Class
-Jamf 300 Course Resources: https://docs.jamf.com/education-services/resources/20220728/300_Resources.html
 
 Jamf Health Check Page Documentation: https://docs.jamf.com/10.40.0/jamf-pro/documentation/Jamf_Pro_Health_Check_Page.html?hl=health%2Ccheck
 
@@ -80,6 +80,8 @@ Nudge: https://github.com/macadmins/nudge
 SuperMan Notifications: https://github.com/Macjutsu/super
 
 IBM Notifications: https://github.com/IBM/mac-ibm-notifications
+
+Root Support App: https://github.com/root3nl/SupportApp
 ## Useful Commands:
 
 These are just some commands that I found really useful, but most are copy paste from [the Jamf 300 Course Resources](https://docs.jamf.com/education-services/resources/20220728/300_Resources.html)
