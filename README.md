@@ -69,6 +69,11 @@ jamfHelper Constructor: https://github.com/BIG-RAT/jhc
 
 DockUtil: https://github.com/kcrawford/dockutil
 
+Suspicious Package: https://www.mothersruin.com/software/SuspiciousPackage/
+
+Package Source Scripts: https://docs.jamf.com/composer/10.36.0/user-guide/Package_Source_Scripts.html?hl=package%2Csource%2Cscripts%2Ccomposer%2Cuser%2Cguide%2Cjamf
+
+Mac Admins Installer Package Scripting: https://macadmins.psu.edu/files/2019/07/psumac2019-345-Installer-Package-Scripting-Making-your-deployments-easier-one-at-a-time.pdf
 ## Useful Commands:
 
 These are just some commands that I found really useful, but most are copy paste from [the Jamf 300 Course Resources](https://docs.jamf.com/education-services/resources/20220728/300_Resources.html)
